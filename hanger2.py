@@ -1,6 +1,6 @@
 from isLetterValid import isLetterValid
 from displaySecretWord import displaySecretWord
-from larp import isSecretSolved
+from secret import isSecretSolved
 from findLetters import findLetters
 import random
 
